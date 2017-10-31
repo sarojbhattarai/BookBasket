@@ -2,6 +2,8 @@
 :Date: 2001-08-16
 :Version: 2017.10
 :Author: - Nischal Lal Shrestha
+     - Saroj Bhattarai
+     - Poshan Pandey
 :Short Description: 
                     Book Basket will be an online shop that sells books for all type of people. Every Book will be associated to any category.
 
@@ -15,3 +17,4 @@
 
                     My Profile link should appear on navigation link, where the user can see their shopping details + status of their products.
 
+                  Any authorized user must be able to sell books using sell book button, and individual author should get 90% of the book earnings. If authors want to sell the book for free, Book Basket will not take any charge
